@@ -1,0 +1,15 @@
+/* .img{
+    width: 450px;
+    height: 250px;
+    object-fit: cover;
+
+} */
+
+.icon{
+    color: #ffc107;
+}
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
